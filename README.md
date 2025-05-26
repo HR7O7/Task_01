@@ -1,1 +1,1 @@
-#install nmap https://nmap.org/dist/nmap-7.97-setup.exe 
+nmap -sS 192.168.56.0/24
